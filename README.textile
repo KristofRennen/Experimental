@@ -1,7 +1,0 @@
-<h1>Agility</h1>
-
-<ul>
-	<li>Request / Response</li>
-	<li>Database Migrator</li>
-	<li>Versioner</li>
-</ul>
