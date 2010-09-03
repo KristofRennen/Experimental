@@ -1,0 +1,20 @@
+= Agility: Common
+
+A Common Library With Shared Agile Components
+
+== Versions
+
+v1.0.0 - 2010/08/30 -> 2010/09/02
++ Initial version
++ Support for a component provider managing components and dependencies
+
+== Contributing
+
+1. Get a Github account
+2. Fork the project
+3. Make your feature addition or bugfix. 
+4. Send a pull request via GitHub
+
+== Copyright
+
+Copyright (c) Kristof Rennen 2010.
